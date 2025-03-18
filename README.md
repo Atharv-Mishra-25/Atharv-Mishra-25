@@ -10,7 +10,7 @@
       <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Coding">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Atharv-Mishra-25&show_icons=true&theme=radical" width="400" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=atharavmishra&show_icons=true&theme=radical" width="400" alt="GitHub Stats">
     </td>
   </tr>
 </table>
